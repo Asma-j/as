@@ -630,3 +630,17 @@ ul.footer-bottom-list {
 .card {
   box-shadow: 0 12px 12px #585c5b4f;
 }
+.event {
+  display: flex;
+}
+.btn {
+  margin-right: 30px;
+  background-color: rgb(236, 157, 65);
+  height: 50px;
+}
+.card-title {
+  margin-top: 6px;
+}
+.card-title:hover {
+  color: rgb(236, 157, 65);
+}
